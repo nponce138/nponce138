@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Nick! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
